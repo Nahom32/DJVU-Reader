@@ -1,0 +1,3 @@
+python-djvulibre
+pillow
+PyQt5
