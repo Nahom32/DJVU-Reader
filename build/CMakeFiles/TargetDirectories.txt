@@ -1,0 +1,11 @@
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/djvureader.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/package.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/package_source.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/edit_cache.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/rebuild_cache.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/list_install_components.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/install.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/install/local.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/install/strip.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/djvureader_autogen_timestamp_deps.dir
+/Users/nahomsenay/projects/DJVU-Reader/build/CMakeFiles/djvureader_autogen.dir

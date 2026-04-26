@@ -102,10 +102,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install CMake
-        uses: lukka/cmake-vs-action@v2
+      - name: Setup CMake
+        uses: jsalmon11/setup-cmake@v1
         with:
-          version: '3.28.1'
+          cmake-version: '3.28.1'
 
       - name: Install vcpkg
         run: |

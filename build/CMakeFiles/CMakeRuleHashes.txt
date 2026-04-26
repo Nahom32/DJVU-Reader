@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+34d41758fdfd2d47ef6ccbe0b8089d8e CMakeFiles/djvureader_autogen
+5404b28d991fbfd3149d18ce47ef97ff djvureader_autogen/timestamp
