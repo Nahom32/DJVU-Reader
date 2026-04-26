@@ -102,10 +102,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup CMake
-        uses: jsalmon11/setup-cmake@v1
-        with:
-          cmake-version: '3.28.1'
+      - name: Install CMake
+        run: |
+          choco install cmake --installargs ADD_CMAKE_TO_PATH=System
 
       - name: Install vcpkg
         run: |
